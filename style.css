@@ -19,4 +19,15 @@
     margin: 0 16px;
     font-size: 24px;
 }
-
+.turma{
+    background-image: linear-gradient(#0C977E, #94dacc );
+    font-size: 24px;
+    padding: 50px 250px ;
+}
+.turma-titulo{
+    padding-bottom: 50px;
+}
+.turma-imagem{
+    width: 300px;
+}
+fo
