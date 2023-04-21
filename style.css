@@ -2,6 +2,10 @@
     margin: 0%;
     padding: 0%;
 }
+body{
+    font-family: sans-serif;
+    font-family: jost;
+}
 .cabecalho {
     background-color:#045C4D;
     color:white;
@@ -30,4 +34,6 @@
 .turma-imagem{
     width: 300px;
 }
-fo
+.estudante-div{
+    
+}
