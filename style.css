@@ -24,17 +24,18 @@ body{
 .turma{
     background-image: linear-gradient(#045C4D, #83ebd9 );
     font-size: 25px;
-    padding: 50px 250px ;}
+    padding: 50px 200px ;}
 
 .turma-titulo{
     padding-bottom: 30px;
-text-align: center;}
+text-align: center;
+}
 
     .turma-div{display: flex;
     justify-content: center;}
 
 .turma-imagem{
-    width: 300px;}
+    width: 400px;}
 
 .estudante{
         background-image: linear-gradient(#045c4d, #94dbcec2); }
